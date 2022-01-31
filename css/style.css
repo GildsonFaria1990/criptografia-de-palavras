@@ -1,0 +1,54 @@
+body {
+  background-image: url('../img/criptografia.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+input {
+  width: 500px;
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
+ul {
+  margin-top: 4rem;
+  list-style: none;
+  padding: 0;
+
+  display: flex;
+  gap: 0.5rem;
+
+  justify-content: center;
+}
